@@ -28,7 +28,7 @@ SECRET_KEY = '396!e7v#mrctw*=a^&%s0-+e&-)7g8*blx&zq=%rulx5f=c0ex'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['phoenixghost.pythonanywhere.com']
 
 
 # Application definition
